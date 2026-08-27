@@ -29,3 +29,5 @@ mostrarResultado("Maria", media2, situacao2);
 let media3 = calcularMedia(3, 4);
 let situacao3 = verificarSituacao(media3);
 mostrarResultado("Cleusa Maria", media3, situacao3);
+
+// teste
